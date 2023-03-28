@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+nav {
+  text-align: center;
+  font-family:Verdana, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+#featured-property {
+  text-align: center;
+}
+#featured-property p {
+border: 500px;
+margin: auto;
+padding: 10px;
+}
+
+#details {
+  background-color: red;
+  margin: auto;
+}
